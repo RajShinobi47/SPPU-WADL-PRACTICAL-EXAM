@@ -12,18 +12,6 @@ g) List the names who got more than 25 marks in all subjects in browser.
 h) List the names who got less than 40 in both Maths and Science in browser.
 i) Remove specified student document from collection.
 j) Display the Students data in Browser in tabular format.
-Name
-Roll No
-WAD
-DSBDA
-CNS
-CC
-AI
-ABC
-111
-25
-25
-25
-25
-25 |
+Name RollNo WAD DSBDAL CNS CC AI
+ABC  111    25  25     23  24 26
 | git diff | Show file differences that haven't been staged |
